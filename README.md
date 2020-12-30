@@ -1,2 +1,2 @@
 # Progect
-Script, which can add numbers yo the files.
+Добавить к имени всех фалов в дирректории их порядковый номер.
